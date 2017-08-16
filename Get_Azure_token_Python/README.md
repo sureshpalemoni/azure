@@ -1,4 +1,4 @@
-Python API request to get the azure token.
+Python API request to get the azure authentication token.
 
 This token can be used in further requests to post or get the data to or from azure cloud respectively.
 
